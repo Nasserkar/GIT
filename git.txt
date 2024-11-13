@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "commit message"
+git remote add https://github.com/Nasserkar/GIT
+git push -u origin main
